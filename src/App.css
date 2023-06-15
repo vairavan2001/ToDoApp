@@ -1,0 +1,14 @@
+table,td,th{
+  border-collapse: separate;
+  border-spacing: 0 20px;
+  border-radius: 10px;
+}
+td{
+  background-color: rgb(133, 245, 133);
+  width:100%;
+}
+table{
+  width: 80%;
+  padding-bottom: 80px;
+  
+}
